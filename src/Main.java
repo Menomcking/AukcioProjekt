@@ -39,3 +39,5 @@ public class Main {
         System.out.println(paintings.getFirst());
     }
 }
+
+
